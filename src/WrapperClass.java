@@ -25,6 +25,10 @@ public class WrapperClass {
         BigInteger z = j.multiply(x);
         System.out.println(z);
 
+        Double o = 3.5;
+        System.out.println(o.intValue()); // 3
+        System.out.println(o.compareTo(4.5)); // -1
+
     }
 
 
