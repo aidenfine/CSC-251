@@ -1,0 +1,3 @@
+shoe class is the superclass
+walking class is the subclass
+    Create another subclass to shoe called running
